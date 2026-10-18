@@ -1,2 +1,2 @@
 # KC_Edit
-Simple Hand Coded Editor with expanding Features(named in honor of my mother
+Simple Hand Coded Editor with expanding Features(named in honor of my mother Kryn)
